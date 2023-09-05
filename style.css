@@ -1,0 +1,250 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: linear-gradient(
+    118.2deg,
+    rgba(117, 117, 117, 1) 0%,
+    rgba(81, 75, 75, 0.8) 91.54691696166992%
+  );
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    175.86deg,
+    rgba(255, 255, 255, 0.03) 0%,
+    rgba(255, 255, 255, 0.03) 100%
+  );
+  border-radius: 28px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(
+    183.23deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.2) 18.831555545330048%,
+    rgba(0, 0, 0, 0.2) 83.02744030952454%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  border-image-slice: 1;
+  opacity: 0.20000000298023224;
+  width: 325px;
+  height: 1050px;
+  position: absolute;
+  left: 13px;
+  top: 15px;
+  backdrop-filter: blur(4px);
+}
+.kick-avenue {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "Chonburi", sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 56px;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: row;
+  gap: 34px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 1418px;
+  position: absolute;
+  left: 419px;
+  top: 126px;
+}
+.component-1 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.rectangle-2 {
+  background: #000000;
+  border-radius: 28px;
+  width: 329px;
+  height: 411px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rp-1-299-000 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "JetBrains Mono", sans-serif;
+  position: absolute;
+  left: 24px;
+  top: 311px;
+}
+.image-1 {
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 24px;
+  top: 38px;
+}
+.component-2 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.component-3 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.component-4 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.component-5 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.component-6 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.component-7 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.component-8 {
+  flex-shrink: 0;
+  width: 329px;
+  height: 411px;
+  position: relative;
+}
+.frame-5 {
+  border-radius: 28px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2.5px;
+  padding: 6px 72px 6px 72px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 53px;
+  top: 195px;
+  overflow: hidden;
+}
+.nike {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "JetBrains Mono", sans-serif;
+  position: relative;
+}
+.frame-4 {
+  background: #d9d9d9;
+  border-radius: 28px;
+  padding: 3px 48px 3px 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 53px;
+  top: 286px;
+  overflow: hidden;
+}
+.adidas {
+  color: #000000;
+  text-align: left;
+  font: 400 40px "JetBrains Mono", sans-serif;
+  position: relative;
+}
+.frame-6 {
+  background: #d9d9d9;
+  border-radius: 28px;
+  padding: 5px 24px 5px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 53px;
+  top: 377px;
+  overflow: hidden;
+}
+.converse {
+  color: #000000;
+  text-align: left;
+  font: 400 40px "JetBrains Mono", sans-serif;
+  position: relative;
+}
+.frame-7 {
+  background: #d9d9d9;
+  border-radius: 28px;
+  padding: 6px 38px 6px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 240px;
+  position: absolute;
+  left: 53px;
+  top: 468px;
+  overflow: hidden;
+}
+.tomkins {
+  color: #000000;
+  text-align: left;
+  font: 400 40px "JetBrains Mono", sans-serif;
+  position: relative;
+}
+.ellipse-1 {
+  background: linear-gradient(to left, #f7c5bf, #f7c5bf);
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 125px;
+  top: 917px;
+}
+.frame-8 {
+  background: #d9d9d9;
+  border-radius: 28px;
+  padding: 4px 24px 4px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 240px;
+  position: absolute;
+  left: 53px;
+  top: 839px;
+  overflow: hidden;
+}
+.shopping-cart {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.cart {
+  color: #000000;
+  text-align: left;
+  font: 400 40px "JetBrains Mono", sans-serif;
+  position: relative;
+}
